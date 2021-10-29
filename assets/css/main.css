@@ -2829,7 +2829,7 @@ input, select, textarea {
 /* Main */
 
 	.main {
-		padding: 6em 0 4em 0 ;
+		padding: 2em 0 4em 0 ;
 	}
 
 		.main.style1 {
@@ -3275,7 +3275,7 @@ input, select, textarea {
 		/* Main */
 
 			.main {
-				padding: 4em 0 2em 0 ;
+				padding: 3em 0 2em 0 ;
 			}
 
 				.main.style2 {
@@ -3321,7 +3321,7 @@ input, select, textarea {
 		/* Main */
 
 			.main {
-				padding: 5em 3em 3em 3em ;
+				padding: 3em 3em 3em 3em ;
 			}
 
 		/* Header */
@@ -3527,8 +3527,4 @@ input, select, textarea {
 		overflow: hidden;
 		transition: max-height 0.2s ease-out;
 		background-color: #f1f1f1;
-	}
-
-	.special-paragraph {
-		margin: 3em 0 2em 0;
 	}
