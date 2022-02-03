@@ -2824,6 +2824,7 @@ input, select, textarea {
 		.button.disabled,
 		.button:disabled {
 			cursor: default;
+			pointer-events: none;
 		}
 
 /* Main */
